@@ -35,3 +35,4 @@ Monorepo with 🤖 AI goodies | LLM Chat | 🔥Hono + OpenAPI & RPC, Nuxt, Conve
 # avoid re-reading the config on every call
 # clarify the control flow
 # drop an unused branch
+# guard against empty input
