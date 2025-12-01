@@ -35,3 +35,4 @@ Monorepo with 🤖 AI goodies | LLM Chat | 🔥Hono + OpenAPI & RPC, Nuxt, Conve
 # clarify the control flow
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
+# guard against empty input
