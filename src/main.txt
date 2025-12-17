@@ -38,3 +38,4 @@ Monorepo with 🤖 AI goodies | LLM Chat | 🔥Hono + OpenAPI & RPC, Nuxt, Conve
 # guard against empty input
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
